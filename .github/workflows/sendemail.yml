@@ -47,7 +47,7 @@ jobs:
           # Required mail subject:
           subject: Github Actions job result
           # Required recipients' addresses:
-          to: hwidanti1@babson.edu
+          to: hijrians.widanti@gmail.com
           # Required sender full name (address can be skipped):
           from: Hijrian Widanti # <user@example.com>
           # Optional plain body:
